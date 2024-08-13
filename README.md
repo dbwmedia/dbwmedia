@@ -1,10 +1,10 @@
-# DBW Media
+# dbw media
 
-Welcome to the official GitHub account of DBW Media, your expert internet agency for custom web design and development. We pride ourselves on making websites as exciting and appealing as the companies behind them. Our mission is to bring your vision to life with our creativity and technical expertise.
+Welcome to the official GitHub account of dbw media, your expert internet agency for custom web design and development. We pride ourselves on making websites as exciting and appealing as the companies behind them. Our mission is to bring your vision to life with our creativity and technical expertise.
 
 ## Our Services
 
-At DBW Media, we specialize in:
+At dbw media, we specialize in:
 
 - **Web Design**: Creating user-friendly, aesthetically pleasing websites that bring your brand to life.
 - **Web Development**: Building high-quality websites and web applications tailored to your specific needs.
@@ -33,4 +33,4 @@ We are always looking for talented developers and designers who share our passio
 
 ---
 
-DBW Media - Web design and development as exciting and appealing as the companies behind them.
+dbw media - Web design and development as exciting and appealing as the companies behind them.
