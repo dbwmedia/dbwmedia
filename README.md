@@ -22,8 +22,8 @@ We use a variety of technologies to develop the best solutions for our clients. 
 
 Ready to start your next project or have questions about our services? We'd love to hear from you!
 
-- **Website**: [dbwmedia.de](https://www.dbwmedia.de)
-- **Email**: dennis@dbwmedia.de
+- **Website**: [dbwmedia.de](https://www.dbw-media.de)
+- **Email**: dennis@dbw-media.de
 
 Also, follow us on [LinkedIn]([LinkedIn-URL]) for updates and insights into our latest projects.
 
